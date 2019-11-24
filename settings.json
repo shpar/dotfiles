@@ -1,0 +1,11 @@
+{
+    "telemetry.enableTelemetry": false,
+    "editor.minimap.enabled": false,
+    "editor.autoClosingBrackets": "never",
+    "C_Cpp.formatting": "Disabled",
+    "editor.formatOnSave": true,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Menlo for Powerline",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "C_Cpp.updateChannel": "Insiders"
+}
