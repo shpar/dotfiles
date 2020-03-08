@@ -1,0 +1,14 @@
+filetype *.txt vim
+filetype *.* open
+set norunexec
+set dotfiles
+set ignorecase
+set smartcase
+set nohlsearch
+set syscalls
+colorscheme Default
+set timefmt=%y/%m/%d\ %H:%M
+mark h ~/
+mark d /Volumes/
+mark w ~/Downloads/
+mark m ~/Music/

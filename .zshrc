@@ -99,3 +99,4 @@ autoload -U compinit && compinit
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 setopt rmstarsilent
+setopt +o nomatch
